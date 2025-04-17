@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi there👋🏻;Vaaneesh Prabhakar here;Welcome to my Github profile!;&font=Fira%20Code&center=true&width=380&height=50&duration=3000&pause=1000" alt="Example Usage - README Typing SVG">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%F0%9F%91%8B%F0%9F%8F%BB;Vaaneesh+Prabhakar+here...;Welcome+to+my+Github+profile!" alt="Typing SVG" /></a>
 </p>
 <h1>My-Stats</h1>
 
